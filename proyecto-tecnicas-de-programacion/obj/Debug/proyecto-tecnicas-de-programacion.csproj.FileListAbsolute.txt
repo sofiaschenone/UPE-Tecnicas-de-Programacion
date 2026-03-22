@@ -1,0 +1,9 @@
+C:\Users\sofia\OneDrive\Escritorio\UPE-Tecnicas-de-Programacion\proyecto-tecnicas-de-programacion\bin\Debug\proyecto-tecnicas-de-programacion.exe.config
+C:\Users\sofia\OneDrive\Escritorio\UPE-Tecnicas-de-Programacion\proyecto-tecnicas-de-programacion\bin\Debug\proyecto-tecnicas-de-programacion.exe
+C:\Users\sofia\OneDrive\Escritorio\UPE-Tecnicas-de-Programacion\proyecto-tecnicas-de-programacion\bin\Debug\proyecto-tecnicas-de-programacion.pdb
+C:\Users\sofia\OneDrive\Escritorio\UPE-Tecnicas-de-Programacion\proyecto-tecnicas-de-programacion\obj\Debug\proyecto-tecnicas-de-programacion.csproj.AssemblyReference.cache
+C:\Users\sofia\OneDrive\Escritorio\UPE-Tecnicas-de-Programacion\proyecto-tecnicas-de-programacion\obj\Debug\proyecto_tecnicas_de_programacion.Properties.Resources.resources
+C:\Users\sofia\OneDrive\Escritorio\UPE-Tecnicas-de-Programacion\proyecto-tecnicas-de-programacion\obj\Debug\proyecto-tecnicas-de-programacion.csproj.GenerateResource.cache
+C:\Users\sofia\OneDrive\Escritorio\UPE-Tecnicas-de-Programacion\proyecto-tecnicas-de-programacion\obj\Debug\proyecto-tecnicas-de-programacion.csproj.CoreCompileInputs.cache
+C:\Users\sofia\OneDrive\Escritorio\UPE-Tecnicas-de-Programacion\proyecto-tecnicas-de-programacion\obj\Debug\proyecto-tecnicas-de-programacion.exe
+C:\Users\sofia\OneDrive\Escritorio\UPE-Tecnicas-de-Programacion\proyecto-tecnicas-de-programacion\obj\Debug\proyecto-tecnicas-de-programacion.pdb
