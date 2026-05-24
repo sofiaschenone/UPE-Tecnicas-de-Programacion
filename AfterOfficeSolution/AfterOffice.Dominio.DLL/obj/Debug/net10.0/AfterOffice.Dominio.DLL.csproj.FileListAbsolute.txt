@@ -1,0 +1,12 @@
+C:\Users\sofia\OneDrive\Escritorio\UPE-Tecnicas-de-Programacion\AfterOfficeSolution\AfterOffice.Dominio.DLL\bin\Debug\net10.0\AfterOffice.Dominio.DLL.deps.json
+C:\Users\sofia\OneDrive\Escritorio\UPE-Tecnicas-de-Programacion\AfterOfficeSolution\AfterOffice.Dominio.DLL\bin\Debug\net10.0\AfterOffice.Dominio.DLL.dll
+C:\Users\sofia\OneDrive\Escritorio\UPE-Tecnicas-de-Programacion\AfterOfficeSolution\AfterOffice.Dominio.DLL\bin\Debug\net10.0\AfterOffice.Dominio.DLL.pdb
+C:\Users\sofia\OneDrive\Escritorio\UPE-Tecnicas-de-Programacion\AfterOfficeSolution\AfterOffice.Dominio.DLL\obj\Debug\net10.0\AfterOffice.Dominio.DLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sofia\OneDrive\Escritorio\UPE-Tecnicas-de-Programacion\AfterOfficeSolution\AfterOffice.Dominio.DLL\obj\Debug\net10.0\AfterOffice.Dominio.DLL.AssemblyInfoInputs.cache
+C:\Users\sofia\OneDrive\Escritorio\UPE-Tecnicas-de-Programacion\AfterOfficeSolution\AfterOffice.Dominio.DLL\obj\Debug\net10.0\AfterOffice.Dominio.DLL.AssemblyInfo.cs
+C:\Users\sofia\OneDrive\Escritorio\UPE-Tecnicas-de-Programacion\AfterOfficeSolution\AfterOffice.Dominio.DLL\obj\Debug\net10.0\AfterOffice.Dominio.DLL.csproj.CoreCompileInputs.cache
+C:\Users\sofia\OneDrive\Escritorio\UPE-Tecnicas-de-Programacion\AfterOfficeSolution\AfterOffice.Dominio.DLL\obj\Debug\net10.0\AfterOffice.Dominio.DLL.sourcelink.json
+C:\Users\sofia\OneDrive\Escritorio\UPE-Tecnicas-de-Programacion\AfterOfficeSolution\AfterOffice.Dominio.DLL\obj\Debug\net10.0\AfterOffice.Dominio.DLL.dll
+C:\Users\sofia\OneDrive\Escritorio\UPE-Tecnicas-de-Programacion\AfterOfficeSolution\AfterOffice.Dominio.DLL\obj\Debug\net10.0\refint\AfterOffice.Dominio.DLL.dll
+C:\Users\sofia\OneDrive\Escritorio\UPE-Tecnicas-de-Programacion\AfterOfficeSolution\AfterOffice.Dominio.DLL\obj\Debug\net10.0\AfterOffice.Dominio.DLL.pdb
+C:\Users\sofia\OneDrive\Escritorio\UPE-Tecnicas-de-Programacion\AfterOfficeSolution\AfterOffice.Dominio.DLL\obj\Debug\net10.0\ref\AfterOffice.Dominio.DLL.dll
